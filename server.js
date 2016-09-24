@@ -10,18 +10,17 @@ var article = {
     'article-one' : {
     title: 'Article One ! Raman Ratnakar',
     heading: 'Article One',
-    date: 'Sep 10, 2016',
+    date: 'Sep 5, 2016',
     content: `
         <p>
-            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
+            This is the content of my First article. 
         </p>
         <p>
-            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
+            This is the content of my first article.
         </p>
         <p>
-            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-        </p>`
-},
+            This is the content of my first article.
+        </p>`},
     'article-two' : {
     title: 'Article Two ! Raman Ratnakar',
     heading: 'Article Two',
