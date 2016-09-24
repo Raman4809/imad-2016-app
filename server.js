@@ -13,13 +13,13 @@ var article = {
     date: 'Sep 5, 2016',
     content: `
         <p>
-            This is the content of my First article. 
+            This is the content of my second article. 
         </p>
         <p>
-            This is the content of my first article.
+            This is the content of my second article.
         </p>
         <p>
-            This is the content of my first article.
+            This is the content of my second article.
         </p>`},
     'article-two' : {
     title: 'Article Two ! Raman Ratnakar',
