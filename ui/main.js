@@ -23,3 +23,20 @@ button.onclick = function(){
    request.open('GET', 'http://raman4809.imad.hasura-app.io/counter', true);
    request.send(null);
 };
+
+//submit name
+var nameInput = document.getElementById('name');
+var name = nameInput.value;
+var submit = document.getElementById('submit_btn');
+submit.onclick = function(){
+    //Make a req to the server and send name
+    
+    //Capture a list of name and render it as a List
+    var names = ['name1','name2','name3'];
+    var list='';
+    for(var i=0; i<name.length; i++){
+        list += '<li>' + name[i] +</li>;
+    }
+    var ul = document.getElementById('namelist');
+    ul.innerHtml = list;
+};
